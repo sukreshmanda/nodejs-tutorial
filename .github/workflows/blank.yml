@@ -1,4 +1,4 @@
-name: CI
+name: Node
 on:
   workflow_dispatch:
 jobs:
