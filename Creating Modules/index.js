@@ -1,2 +1,2 @@
-var link = require ('./template')
+var link = require ('./template')['log']
 console.log(link)
